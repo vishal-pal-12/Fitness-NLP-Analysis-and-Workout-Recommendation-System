@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "name": "Fitness NLP Project",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.terminal.activateEnvironment": true
+    }
+}

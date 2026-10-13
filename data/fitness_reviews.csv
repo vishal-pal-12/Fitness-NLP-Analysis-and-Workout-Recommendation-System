@@ -1,0 +1,156 @@
+review_id,workout_name,sentiment,rating,review_text
+1,Full Body HIIT Blast,Positive,5,This HIIT session completely kicked my butt! Burned over 350 calories and felt energised the whole day. Fantastic coach instructions.
+2,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Positive,5,Incredible chest pump! The progressive overload scheme with barbell press and dips gave me noticeable upper body growth after four weeks.
+3,"PPL Pull Day: Back, Rear Delts & Biceps",Positive,5,Deadlifts and weighted pull-ups in the same session feel amazing. My lats and biceps are definitely wider and stronger.
+4,Lower Body Quad & Glute Destroyer,Positive,5,Squats and lunges were brutal in the best way possible. Sore legs for two days but my squat PR went up by 10kg!
+5,Beginner Calisthenics & Bodyweight Mastery,Positive,5,"As someone who could not do a single clean pushup, this progression guide was super clear, safe, and motivating."
+6,Vinyasa Flow Mobility & Deep Flexibility,Positive,5,My lower back pain disappeared after doing this yoga flow twice a week. Hamstrings feel loose and hip mobility is transformed.
+7,Starting Strength 5x5 Power Routine,Positive,5,"The classic 5x5 compound lifts are unmatched for building true functional strength. Simple, effective, and results speak for themselves."
+8,Core Sculpt & Six-Pack Shredder,Positive,5,Short 25-minute workout but absolute fire in the abs. Hanging leg raises and hollow body holds are killer.
+9,Low-Impact Cardio for Seniors & Beginners,Positive,5,Gentle on my bad knees and very easy to follow at home. Great low impact cardio without joint ache.
+10,Kettlebell Metabolic Circuit Shredder,Positive,5,The kettlebell swings and clean and press kept my heart rate in the fat-burning zone. Excellent conditioning!
+11,Upper Body Dumbbell Sculpt & Tone,Positive,5,Great dumbbell routine for home lifters. Arms and shoulders look sculpted and the pacing is very realistic.
+12,Runner's Stamina & Aerobic Base Builder,Positive,5,Helped me shave 2 minutes off my 5k personal best. The track intervals build serious stamina and mental toughness.
+13,Desk Worker Posture & Spinal Rehab,Positive,5,Immediate relief for my stiff neck and rounded shoulders. Wall angels and band pull-aparts should be mandatory for all programmers.
+14,Chest Peak & Pectoral Mass Specialist,Positive,5,Outstanding pectoral hypertrophy workout. The cable crossovers and decline presses hit every angle of the chest.
+15,Boxing Heavy Bag Conditioning & Agility,Positive,5,"Best stress buster ever! Fast-paced rounds, intense calorie burn, and great combination cues from the trainer."
+16,Full Body HIIT Blast,Negative,1,Way too fast and chaotic. The transitions between burpees and mountain climbers caused severe wrist pain and dizzy spells.
+17,Lower Body Quad & Glute Destroyer,Negative,1,Unreasonable volume for squats and split squats. My lower back was badly strained and the recovery took a whole week.
+18,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Negative,2,Too many overlapping pressing exercises. Shoulder joints were clicking painfully on the incline press. Not balanced at all.
+19,Starting Strength 5x5 Power Routine,Negative,2,Extremely repetitive and boring. Doing only squats and presses three times a week led to stalling and zero hypertrophy.
+20,Core Sculpt & Six-Pack Shredder,Negative,1,Caused excessive neck strain during crunches and the lower back arches badly during leg raises. Poor form explanations.
+21,Kettlebell Metabolic Circuit Shredder,Negative,2,The Turkish get-ups are far too complex for a fast paced circuit. Bruised my forearm with clumsy kettlebell transitions.
+22,Tabata Sprint Extreme Fat Burner,Negative,1,Terrible for joints. Hard plyometric jumps on concrete floors gave me awful shin splints and knee inflammation.
+23,Gymnastic Rings Upper Body Strength,Negative,2,Rings are too unstable and dangerous without a spotter. Elbow tendonitis flared up immediately during ring dips.
+24,Runner's Stamina & Aerobic Base Builder,Negative,2,Pacing instructions are unrealistic for amateur runners. Ended up overtraining and pulling a calf muscle.
+25,Upper Body Dumbbell Sculpt & Tone,Negative,2,Weights recommended were way too heavy for beginners. Zero modifications provided for people with limited dumbbell sets.
+26,Full Body HIIT Blast,Neutral,3,"Decent workout with average intensity. Good if you have only 30 minutes, but nothing special compared to other HIIT videos."
+27,Vinyasa Flow Mobility & Deep Flexibility,Neutral,3,"Standard yoga flow. Some poses were relaxing, but the audio quality was a bit muffled and background music was distracting."
+28,"PPL Pull Day: Back, Rear Delts & Biceps",Neutral,3,Standard pull day split. Exercises are basic staple movements; works fine but lacks novelty or unique variations.
+29,Low-Impact Cardio for Seniors & Beginners,Neutral,3,Okay for total beginners or seniors. Might be too mild for people who already walk regularly or have some baseline fitness.
+30,Desk Worker Posture & Spinal Rehab,Neutral,3,"Exercises are okay for posture maintenance, but you need resistance bands and foam roller handy. Average routine overall."
+31,Arm Farm: Biceps & Triceps Super-Sets,Neutral,3,"Gives a nice temporary arm pump, but supersets take up two stations at a crowded commercial gym."
+32,Beginner Calisthenics & Bodyweight Mastery,Neutral,3,"Good fundamental movements, but progression between knee push-ups and standard pushups is quite steep for true beginners."
+33,Rest Day Active Recovery & Foam Rolling,Neutral,3,"Routine is quite basic. You could just do regular stretching, but the foam rolling guidance is mildly helpful."
+34,Kettlebell Metabolic Circuit Shredder,Neutral,3,Requires a solid kettlebell technique before starting. It is an okay cardio substitute if the weather prevents outdoor runs.
+35,Total Body Resistance Band Home Circuit,Neutral,3,"Fine for business travel in a hotel room, but does not replace heavy barbell lifting if strength is your main goal."
+36,Full Body HIIT Blast,Positive,5,Brilliant workout plan for fat loss. I noticed increased muscular endurance and stamina within 3 weeks.
+37,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Positive,5,Brilliant workout plan for muscle growth. I noticed increased muscular endurance and stamina within 3 weeks.
+38,"PPL Pull Day: Back, Rear Delts & Biceps",Positive,5,Brilliant workout plan for mobility. I noticed increased muscular endurance and stamina within 3 weeks.
+39,Lower Body Quad & Glute Destroyer,Positive,5,Brilliant workout plan for strength gains. I noticed increased muscular endurance and stamina within 3 weeks.
+40,Beginner Calisthenics & Bodyweight Mastery,Positive,5,Brilliant workout plan for conditioning. I noticed increased muscular endurance and stamina within 3 weeks.
+41,Vinyasa Flow Mobility & Deep Flexibility,Positive,5,Brilliant workout plan for stamina. I noticed increased muscular endurance and stamina within 3 weeks.
+42,Full Body HIIT Blast,Positive,5,Loved the clear trainer instructions for squats. Highly recommended for anyone wanting results.
+43,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Positive,5,Loved the clear trainer instructions for bench press. Highly recommended for anyone wanting results.
+44,"PPL Pull Day: Back, Rear Delts & Biceps",Positive,5,Loved the clear trainer instructions for pushups. Highly recommended for anyone wanting results.
+45,Lower Body Quad & Glute Destroyer,Positive,5,Loved the clear trainer instructions for deadlifts. Highly recommended for anyone wanting results.
+46,Beginner Calisthenics & Bodyweight Mastery,Positive,5,Loved the clear trainer instructions for kettlebell swings. Highly recommended for anyone wanting results.
+47,Vinyasa Flow Mobility & Deep Flexibility,Positive,5,Loved the clear trainer instructions for hiit sprints. Highly recommended for anyone wanting results.
+48,Full Body HIIT Blast,Positive,5,Super effective workout! My heart rate stayed high and calorie burn was phenomenal.
+49,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Positive,5,Super effective workout! My heart rate stayed high and calorie burn was phenomenal.
+50,"PPL Pull Day: Back, Rear Delts & Biceps",Positive,5,Super effective workout! My heart rate stayed high and calorie burn was phenomenal.
+51,Lower Body Quad & Glute Destroyer,Positive,5,Super effective workout! My heart rate stayed high and calorie burn was phenomenal.
+52,Beginner Calisthenics & Bodyweight Mastery,Positive,5,Super effective workout! My heart rate stayed high and calorie burn was phenomenal.
+53,Vinyasa Flow Mobility & Deep Flexibility,Positive,5,Super effective workout! My heart rate stayed high and calorie burn was phenomenal.
+54,Full Body HIIT Blast,Positive,5,Excellent programming. Exercises target the right muscle groups without unnecessary joint strain.
+55,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Positive,5,Excellent programming. Exercises target the right muscle groups without unnecessary joint strain.
+56,"PPL Pull Day: Back, Rear Delts & Biceps",Positive,5,Excellent programming. Exercises target the right muscle groups without unnecessary joint strain.
+57,Lower Body Quad & Glute Destroyer,Positive,5,Excellent programming. Exercises target the right muscle groups without unnecessary joint strain.
+58,Beginner Calisthenics & Bodyweight Mastery,Positive,5,Excellent programming. Exercises target the right muscle groups without unnecessary joint strain.
+59,Vinyasa Flow Mobility & Deep Flexibility,Positive,5,Excellent programming. Exercises target the right muscle groups without unnecessary joint strain.
+60,Full Body HIIT Blast,Positive,5,"One of the best routines I have tried. Great structure, clear rest intervals, and fantastic pump."
+61,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Positive,5,"One of the best routines I have tried. Great structure, clear rest intervals, and fantastic pump."
+62,"PPL Pull Day: Back, Rear Delts & Biceps",Positive,5,"One of the best routines I have tried. Great structure, clear rest intervals, and fantastic pump."
+63,Lower Body Quad & Glute Destroyer,Positive,5,"One of the best routines I have tried. Great structure, clear rest intervals, and fantastic pump."
+64,Beginner Calisthenics & Bodyweight Mastery,Positive,5,"One of the best routines I have tried. Great structure, clear rest intervals, and fantastic pump."
+65,Vinyasa Flow Mobility & Deep Flexibility,Positive,5,"One of the best routines I have tried. Great structure, clear rest intervals, and fantastic pump."
+66,Full Body HIIT Blast,Positive,5,Very engaging and intense. Really helped me stay disciplined on my fat loss journey.
+67,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Positive,5,Very engaging and intense. Really helped me stay disciplined on my fat loss journey.
+68,"PPL Pull Day: Back, Rear Delts & Biceps",Positive,5,Very engaging and intense. Really helped me stay disciplined on my fat loss journey.
+69,Lower Body Quad & Glute Destroyer,Positive,5,Very engaging and intense. Really helped me stay disciplined on my fat loss journey.
+70,Beginner Calisthenics & Bodyweight Mastery,Positive,5,Very engaging and intense. Really helped me stay disciplined on my fat loss journey.
+71,Vinyasa Flow Mobility & Deep Flexibility,Positive,5,Very engaging and intense. Really helped me stay disciplined on my fat loss journey.
+72,Full Body HIIT Blast,Positive,5,The pacing was spot-on and the exercise form cues helped prevent any back discomfort.
+73,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Positive,5,The pacing was spot-on and the exercise form cues helped prevent any back discomfort.
+74,"PPL Pull Day: Back, Rear Delts & Biceps",Positive,5,The pacing was spot-on and the exercise form cues helped prevent any back discomfort.
+75,Lower Body Quad & Glute Destroyer,Positive,5,The pacing was spot-on and the exercise form cues helped prevent any back discomfort.
+76,Beginner Calisthenics & Bodyweight Mastery,Positive,5,The pacing was spot-on and the exercise form cues helped prevent any back discomfort.
+77,Vinyasa Flow Mobility & Deep Flexibility,Positive,5,The pacing was spot-on and the exercise form cues helped prevent any back discomfort.
+78,Full Body HIIT Blast,Negative,1,Disappointed with the routine. The exercise tempo is way too fast and form breaks down easily.
+79,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Negative,1,Disappointed with the routine. The exercise tempo is way too fast and form breaks down easily.
+80,"PPL Pull Day: Back, Rear Delts & Biceps",Negative,1,Disappointed with the routine. The exercise tempo is way too fast and form breaks down easily.
+81,Lower Body Quad & Glute Destroyer,Negative,1,Disappointed with the routine. The exercise tempo is way too fast and form breaks down easily.
+82,Beginner Calisthenics & Bodyweight Mastery,Negative,1,Disappointed with the routine. The exercise tempo is way too fast and form breaks down easily.
+83,Vinyasa Flow Mobility & Deep Flexibility,Negative,1,Disappointed with the routine. The exercise tempo is way too fast and form breaks down easily.
+84,Full Body HIIT Blast,Negative,1,Felt painful in my shoulders and knees. Not beginner friendly at all despite the description.
+85,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Negative,1,Felt painful in my shoulders and knees. Not beginner friendly at all despite the description.
+86,"PPL Pull Day: Back, Rear Delts & Biceps",Negative,1,Felt painful in my shoulders and knees. Not beginner friendly at all despite the description.
+87,Lower Body Quad & Glute Destroyer,Negative,1,Felt painful in my shoulders and knees. Not beginner friendly at all despite the description.
+88,Beginner Calisthenics & Bodyweight Mastery,Negative,1,Felt painful in my shoulders and knees. Not beginner friendly at all despite the description.
+89,Vinyasa Flow Mobility & Deep Flexibility,Negative,1,Felt painful in my shoulders and knees. Not beginner friendly at all despite the description.
+90,Full Body HIIT Blast,Negative,1,Poor instructions and confusing exercise sequence. Ended up with terrible muscular soreness and fatigue.
+91,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Negative,1,Poor instructions and confusing exercise sequence. Ended up with terrible muscular soreness and fatigue.
+92,"PPL Pull Day: Back, Rear Delts & Biceps",Negative,1,Poor instructions and confusing exercise sequence. Ended up with terrible muscular soreness and fatigue.
+93,Lower Body Quad & Glute Destroyer,Negative,1,Poor instructions and confusing exercise sequence. Ended up with terrible muscular soreness and fatigue.
+94,Beginner Calisthenics & Bodyweight Mastery,Negative,1,Poor instructions and confusing exercise sequence. Ended up with terrible muscular soreness and fatigue.
+95,Vinyasa Flow Mobility & Deep Flexibility,Negative,1,Poor instructions and confusing exercise sequence. Ended up with terrible muscular soreness and fatigue.
+96,Full Body HIIT Blast,Negative,1,Waste of time. Did not feel any real engagement in my target muscles and pacing was frustrating.
+97,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Negative,1,Waste of time. Did not feel any real engagement in my target muscles and pacing was frustrating.
+98,"PPL Pull Day: Back, Rear Delts & Biceps",Negative,1,Waste of time. Did not feel any real engagement in my target muscles and pacing was frustrating.
+99,Lower Body Quad & Glute Destroyer,Negative,1,Waste of time. Did not feel any real engagement in my target muscles and pacing was frustrating.
+100,Beginner Calisthenics & Bodyweight Mastery,Negative,1,Waste of time. Did not feel any real engagement in my target muscles and pacing was frustrating.
+101,Vinyasa Flow Mobility & Deep Flexibility,Negative,1,Waste of time. Did not feel any real engagement in my target muscles and pacing was frustrating.
+102,Full Body HIIT Blast,Negative,1,Far too difficult for the stated level. Almost injured my lower back on the very first set.
+103,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Negative,1,Far too difficult for the stated level. Almost injured my lower back on the very first set.
+104,"PPL Pull Day: Back, Rear Delts & Biceps",Negative,1,Far too difficult for the stated level. Almost injured my lower back on the very first set.
+105,Lower Body Quad & Glute Destroyer,Negative,1,Far too difficult for the stated level. Almost injured my lower back on the very first set.
+106,Beginner Calisthenics & Bodyweight Mastery,Negative,1,Far too difficult for the stated level. Almost injured my lower back on the very first set.
+107,Vinyasa Flow Mobility & Deep Flexibility,Negative,1,Far too difficult for the stated level. Almost injured my lower back on the very first set.
+108,Full Body HIIT Blast,Negative,1,Lack of proper warm-up guidelines. My joints were screaming after just fifteen minutes.
+109,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Negative,1,Lack of proper warm-up guidelines. My joints were screaming after just fifteen minutes.
+110,"PPL Pull Day: Back, Rear Delts & Biceps",Negative,1,Lack of proper warm-up guidelines. My joints were screaming after just fifteen minutes.
+111,Lower Body Quad & Glute Destroyer,Negative,1,Lack of proper warm-up guidelines. My joints were screaming after just fifteen minutes.
+112,Beginner Calisthenics & Bodyweight Mastery,Negative,1,Lack of proper warm-up guidelines. My joints were screaming after just fifteen minutes.
+113,Vinyasa Flow Mobility & Deep Flexibility,Negative,1,Lack of proper warm-up guidelines. My joints were screaming after just fifteen minutes.
+114,Full Body HIIT Blast,Negative,1,Way too many complex movements packed into a short time window. Very sloppy execution.
+115,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Negative,1,Way too many complex movements packed into a short time window. Very sloppy execution.
+116,"PPL Pull Day: Back, Rear Delts & Biceps",Negative,1,Way too many complex movements packed into a short time window. Very sloppy execution.
+117,Lower Body Quad & Glute Destroyer,Negative,1,Way too many complex movements packed into a short time window. Very sloppy execution.
+118,Beginner Calisthenics & Bodyweight Mastery,Negative,1,Way too many complex movements packed into a short time window. Very sloppy execution.
+119,Vinyasa Flow Mobility & Deep Flexibility,Negative,1,Way too many complex movements packed into a short time window. Very sloppy execution.
+120,Full Body HIIT Blast,Neutral,3,"An average workout session. It is okay if you are short on time, but nothing extraordinary."
+121,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Neutral,3,"An average workout session. It is okay if you are short on time, but nothing extraordinary."
+122,"PPL Pull Day: Back, Rear Delts & Biceps",Neutral,3,"An average workout session. It is okay if you are short on time, but nothing extraordinary."
+123,Lower Body Quad & Glute Destroyer,Neutral,3,"An average workout session. It is okay if you are short on time, but nothing extraordinary."
+124,Beginner Calisthenics & Bodyweight Mastery,Neutral,3,"An average workout session. It is okay if you are short on time, but nothing extraordinary."
+125,Vinyasa Flow Mobility & Deep Flexibility,Neutral,3,"An average workout session. It is okay if you are short on time, but nothing extraordinary."
+126,Full Body HIIT Blast,Neutral,3,Standard exercises that get the job done. Neither particularly exciting nor particularly bad.
+127,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Neutral,3,Standard exercises that get the job done. Neither particularly exciting nor particularly bad.
+128,"PPL Pull Day: Back, Rear Delts & Biceps",Neutral,3,Standard exercises that get the job done. Neither particularly exciting nor particularly bad.
+129,Lower Body Quad & Glute Destroyer,Neutral,3,Standard exercises that get the job done. Neither particularly exciting nor particularly bad.
+130,Beginner Calisthenics & Bodyweight Mastery,Neutral,3,Standard exercises that get the job done. Neither particularly exciting nor particularly bad.
+131,Vinyasa Flow Mobility & Deep Flexibility,Neutral,3,Standard exercises that get the job done. Neither particularly exciting nor particularly bad.
+132,Full Body HIIT Blast,Neutral,3,"Decent routine, but you definitely need good gym equipment to perform most of the movements."
+133,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Neutral,3,"Decent routine, but you definitely need good gym equipment to perform most of the movements."
+134,"PPL Pull Day: Back, Rear Delts & Biceps",Neutral,3,"Decent routine, but you definitely need good gym equipment to perform most of the movements."
+135,Lower Body Quad & Glute Destroyer,Neutral,3,"Decent routine, but you definitely need good gym equipment to perform most of the movements."
+136,Beginner Calisthenics & Bodyweight Mastery,Neutral,3,"Decent routine, but you definitely need good gym equipment to perform most of the movements."
+137,Vinyasa Flow Mobility & Deep Flexibility,Neutral,3,"Decent routine, but you definitely need good gym equipment to perform most of the movements."
+138,Full Body HIIT Blast,Neutral,3,"The exercises are fine, but the audio pacing and rest times feel a bit inconsistent."
+139,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Neutral,3,"The exercises are fine, but the audio pacing and rest times feel a bit inconsistent."
+140,"PPL Pull Day: Back, Rear Delts & Biceps",Neutral,3,"The exercises are fine, but the audio pacing and rest times feel a bit inconsistent."
+141,Lower Body Quad & Glute Destroyer,Neutral,3,"The exercises are fine, but the audio pacing and rest times feel a bit inconsistent."
+142,Beginner Calisthenics & Bodyweight Mastery,Neutral,3,"The exercises are fine, but the audio pacing and rest times feel a bit inconsistent."
+143,Vinyasa Flow Mobility & Deep Flexibility,Neutral,3,"The exercises are fine, but the audio pacing and rest times feel a bit inconsistent."
+144,Full Body HIIT Blast,Neutral,3,"Moderate intensity workout. Good as a supplement, but would not use it as my primary routine."
+145,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Neutral,3,"Moderate intensity workout. Good as a supplement, but would not use it as my primary routine."
+146,"PPL Pull Day: Back, Rear Delts & Biceps",Neutral,3,"Moderate intensity workout. Good as a supplement, but would not use it as my primary routine."
+147,Lower Body Quad & Glute Destroyer,Neutral,3,"Moderate intensity workout. Good as a supplement, but would not use it as my primary routine."
+148,Beginner Calisthenics & Bodyweight Mastery,Neutral,3,"Moderate intensity workout. Good as a supplement, but would not use it as my primary routine."
+149,Vinyasa Flow Mobility & Deep Flexibility,Neutral,3,"Moderate intensity workout. Good as a supplement, but would not use it as my primary routine."
+150,Full Body HIIT Blast,Neutral,3,"Fairly typical fitness circuit. Good for maintenance, but progress was rather slow."
+151,"Hypertrophy Push Day: Chest, Shoulders & Triceps",Neutral,3,"Fairly typical fitness circuit. Good for maintenance, but progress was rather slow."
+152,"PPL Pull Day: Back, Rear Delts & Biceps",Neutral,3,"Fairly typical fitness circuit. Good for maintenance, but progress was rather slow."
+153,Lower Body Quad & Glute Destroyer,Neutral,3,"Fairly typical fitness circuit. Good for maintenance, but progress was rather slow."
+154,Beginner Calisthenics & Bodyweight Mastery,Neutral,3,"Fairly typical fitness circuit. Good for maintenance, but progress was rather slow."
+155,Vinyasa Flow Mobility & Deep Flexibility,Neutral,3,"Fairly typical fitness circuit. Good for maintenance, but progress was rather slow."
